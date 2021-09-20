@@ -7,4 +7,4 @@ CMD2
 mongod
 
 CMD3
-node inex.js
+node index.js
